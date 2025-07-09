@@ -6,3 +6,6 @@ Spoofing
 
 Virtual Box
 ![VB](vb.png)
+
+Kali Linux
+![kali](kali.jpeg)
