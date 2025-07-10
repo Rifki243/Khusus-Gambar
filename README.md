@@ -12,3 +12,18 @@ Kali Linux
 
 srsRAN
 ![srsran](srsRAN.webp)
+
+ipconfig
+![ipconfig](ipconfig.jpg)
+
+ifconfig
+![ifconfig](ifconfig.jpg)
+
+netdiscover
+![netdiscover](netdiscover.jpg)
+
+bettercap
+![betttercap](bettercap.jpg)
+
+fakeweb
+![fakeweb](fakeweb.jpg)
