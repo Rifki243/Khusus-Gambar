@@ -30,3 +30,6 @@ bettercap
 
 fakeweb
 ![fakeweb](fakeweb.jpg)
+
+Sektor 8
+![sektor8](Sektor8.jpg)
